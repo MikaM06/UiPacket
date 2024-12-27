@@ -1,0 +1,6 @@
+name: PluginTestPacket
+version: 1.0
+main: fr.mikam06.main.PluginTestPacket
+commands:
+  gui:
+    description: Opens the GUI
