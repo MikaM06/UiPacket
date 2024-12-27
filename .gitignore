@@ -1,6 +1,9 @@
+eclipse
 .idea
-bin
-.classpath
-.project
-.settings
+*.iml
+*.ipr
+.gradle
+build
+test
 out
+*.iws
